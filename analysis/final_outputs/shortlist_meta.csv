@@ -1,0 +1,4 @@
+file,rows,unique_users,electronics,auto
+shortlist_top200_global_step6.csv,200,200,51,38
+shortlist_top200_electronics_step6.csv,200,200,200,0
+shortlist_top200_auto_step6.csv,193,193,0,193

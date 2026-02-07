@@ -1,0 +1,20 @@
+{
+  "decision_date": "2026-02-07",
+  "primary_pilot_segment": {
+    "category": "Электроника",
+    "source": "analysis/step6_outputs/top1000_candidates_step6_text.csv",
+    "shortlist_file": "analysis/final_outputs/shortlist_top200_electronics_step6.csv",
+    "shortlist_size": 200
+  },
+  "fallback_segment": {
+    "category": "Авто",
+    "source": "analysis/step6_outputs/top1000_candidates_step6_text.csv",
+    "shortlist_file": "analysis/final_outputs/shortlist_top200_auto_step6.csv",
+    "shortlist_size": 193,
+    "note": "В step6 top1000 доступно 193 кандидата категории 'Авто'."
+  },
+  "global_reference_shortlist": {
+    "file": "analysis/final_outputs/shortlist_top200_global_step6.csv",
+    "size": 200
+  }
+}
