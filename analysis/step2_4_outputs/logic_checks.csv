@@ -1,0 +1,8 @@
+check,count
+active_ads_current > total_ads_last_12m,0
+"deal_success_rate outside [0,1]",0
+"positive_reviews_percent outside [0,100]",0
+last_activity_date < registration_date,813
+seller_with_zero_ads,4
+non_seller_with_ads,18276
+users_with_deals_but_not_buyer,19543

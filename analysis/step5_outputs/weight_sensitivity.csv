@@ -1,0 +1,4 @@
+scenario,eligible_users,top_k_used,weights_sum,overlap_count,overlap_share_of_base,jaccard
+balanced_base,39441,1000,1.0,1000,1.0,1.0
+engagement_heavy,39441,1000,1.0,695,0.695,0.5326
+trust_heavy,39441,1000,1.0,784,0.784,0.6447

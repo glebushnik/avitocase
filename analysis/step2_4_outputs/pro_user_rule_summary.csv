@@ -1,0 +1,3 @@
+rule,count,share_total_pct,share_sellers_pct,total_ads_last_12m_p75,avg_ad_lifetime_days_p25,questions_per_ad_avg_p75,rating_seller_p75,reviews_count_p50,total_ads_last_12m_p65,avg_ad_lifetime_days_p35,questions_per_ad_avg_p65,rating_seller_fixed,reviews_count_fixed
+strict,193,0.21,0.39,61.0,3.3,3.5,4.9,43.0,,,,,
+relaxed,881,0.98,1.78,,,,,,46.0,4.0,2.8,4.8,10.0

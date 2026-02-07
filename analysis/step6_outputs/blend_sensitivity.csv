@@ -1,0 +1,4 @@
+scenario,style_share,behavior_share,eligible_users,top_k_used,vs_step5_overlap_count,vs_step5_overlap_share_of_base,vs_step5_jaccard,vs_style30_overlap_count,vs_style30_overlap_share_of_base,vs_style30_jaccard
+style_20,0.2,0.8,39441,1000,848,0.848,0.7361,910,0.91,0.8349
+style_30,0.3,0.7,39441,1000,758,0.758,0.6103,1000,1.0,1.0
+style_40,0.4,0.6,39441,1000,670,0.67,0.5038,908,0.908,0.8315

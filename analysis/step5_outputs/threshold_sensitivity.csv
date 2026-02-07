@@ -1,0 +1,4 @@
+scenario,eligible_users,top_k_used,ads_min,reviews_min,questions_min,overlap_count,overlap_share_of_base,jaccard
+lenient,44906,1000,5,3,0.3,975,0.975,0.9512
+base,39441,1000,10,5,0.5,1000,1.0,1.0
+strict,25851,1000,20,10,1.0,916,0.916,0.845
